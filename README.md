@@ -1,9 +1,11 @@
 # rubiks-cube
 Rubik's cube made in python using pygame that can either be toggled between manual and automatic solving modes.
 
-Python and Pygame must be installed.
-  Get python from https://www.python.org/downloads/
-  Run <code>py -m pip install -U pygame --user<code> to install pygame
+Python and Pygame must be installed
+<ul>
+  <li>Get python from https://www.python.org/downloads/</li>
+  <li>Run <code>py -m pip install -U pygame --user</code> to install pygame</li>
+</ul>
 
 Start the application by running <code>python cube.py</code> or <code>py cube.py</code> in the root of the repo.
 
