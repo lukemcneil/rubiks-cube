@@ -3,7 +3,7 @@ Rubik's cube made in python using pygame that can either be toggled between manu
 
 Python and Pygame must be installed.
 
-Start the application by running <code>python cube.py</code> in the root of the repo.
+Start the application by running <code>python cube.py</code> or <code>py cube.py</code> in the root of the repo.
 
 Controls
 <ul>
